@@ -3,15 +3,15 @@ NANOMO.PTML Coat and Drugs model development
 
 # Predicting Coated-Nanoparticle Drugs Release Systems with Perturbation-Theory Machine Learning (PTML) Models
 
-# Authors: Ricardo Santana*a,b, Robin Zuluagac, Piedad Gañánb, Sonia Arrasatee, Enrique Onievaa, and Humbert González-Díaz*,e,f,g
+# Authors: Ricardo Santana*a,b, Robin Zuluaga c, Piedad Gañán b, Sonia Arrasate d, Enrique Onieva a, and Humbert González-Díaz*,e,f
 
 # Affiliations:
-aUniversity of Deusto, Avda. Universidades, 24, 48007 Bilbao, Spain.
-bGrupo de Investigación Sobre Nuevos Materiales, Facultad de Ingeniería Química, Universidad Pontificia Bolivariana, Circular 1° N° 70-01, Medellín, Colombia.
-dFacultad de Ingeniería Agroindustrial, Universidad Pontificia Bolivariana, Circular 1° N° 70-01, Medellín, Colombia.
-eDepartment of Organic Chemistry II, University of Basque Country UPV/EHU, 48940, Leioa, Spain.
-fIKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain.
-gBiofisika Institue CSIC-UPVEHU, University of Basque Country UPV/EHU, 48940, Leioa, Spain.
+a University of Deusto, Avda. Universidades, 24, 48007 Bilbao, Spain.
+b Grupo de Investigación Sobre Nuevos Materiales, Facultad de Ingeniería Química, Universidad Pontificia Bolivariana, Circular 1° N° 70-01, Medellín, Colombia.
+c Facultad de Ingeniería Agroindustrial, Universidad Pontificia Bolivariana, Circular 1° N° 70-01, Medellín, Colombia.
+d Department of Organic Chemistry II, University of the Basque Country UPV/EHU, 48940, Leioa, Spain.
+e IKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain.
+f Biofisika Institue CSIC-UPVEHU, University of Basque Country UPV/EHU, 48940, Leioa, Spain.
 
 # Paper Reference
 	Nanoscale, 2020,12, 13471-13483. doi: https://doi.org/10.1039/D0NR01849J
